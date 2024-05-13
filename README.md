@@ -1,4 +1,4 @@
-# End-to-End-Chest-Cancer-Classification-using-MLflow-DVC
+# MLOPS project implemented using MLflow and DVC
 
 
 ## Workflows
