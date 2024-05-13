@@ -14,7 +14,20 @@
 9. Update the dvc.yaml
 
 
-
+It's a personal MLOPS project implemented using #MLflow and #DVC
+1. Introduction & GitHub Repository Setup
+2. Project Template Creation
+3. Project Setup & Requirements Installation
+4. Logging, Utils & Exception Module
+5. Project Workflows
+6. All Components Notebook Experiment
+7. All Components Modular Code Implementation
+8. Training Pipeline
+9. MLflow (MLOps Tool) - For Experiments tracking & Model Registration
+10. DVC (MLOps Tool) - For Pipeline Tracking & implementation
+11. Prediction Pipeline & User App Creation
+12. Docker
+13. Final Cl/CD Deployment on AWS and Azure
 
 
 ## MLflow
