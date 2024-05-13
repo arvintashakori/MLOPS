@@ -1,19 +1,6 @@
 # MLOPS project implemented using MLflow and DVC
 
-
-## Workflows
-
-1. Update config.yaml
-2. Update secrets.yaml [Optional]
-3. Update params.yaml
-4. Update the entity
-5. Update the configuration manager in src config
-6. Update the components
-7. Update the pipeline 
-8. Update the main.py
-9. Update the dvc.yaml
-
-
+## Contents
 It's a personal MLOPS project implemented using #MLflow and #DVC
 1. Introduction & GitHub Repository Setup
 2. Project Template Creation
@@ -28,6 +15,20 @@ It's a personal MLOPS project implemented using #MLflow and #DVC
 11. Prediction Pipeline & User App Creation
 12. Docker
 13. Final Cl/CD Deployment on AWS and Azure
+
+
+
+## Workflows
+
+1. Update config.yaml
+2. Update secrets.yaml [Optional]
+3. Update params.yaml
+4. Update the entity
+5. Update the configuration manager in src config
+6. Update the components
+7. Update the pipeline 
+8. Update the main.py
+9. Update the dvc.yaml
 
 
 ## MLflow
